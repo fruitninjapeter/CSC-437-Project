@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Coding/Front End Web Dev Learning"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSC 437 Project"
+	}
+}

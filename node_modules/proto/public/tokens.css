@@ -1,0 +1,11 @@
+:root {
+    --color-white: #ffffff;
+    --color-background-page: var(--color-white);
+    --color-background-header: #36a3ec;
+    /*--border-black: 4px solid black;
+    --undertext-border-fancy: 4px solid rgb(112, 255, 90); */
+    --color-background-nav: #2a70d2;
+    
+    /*--color-hover-text-one: rgb(202, 237, 77);
+    --color-hover-text-two: rgb(112, 255, 90); */
+}
